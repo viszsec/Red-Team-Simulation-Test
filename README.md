@@ -1,5 +1,5 @@
 # Red-Team-Simulation-Test
-pshell script for Deception tool and Breach Attack Simulation tool
+pshell script for Deception tool and Breach Attack Simulation tool test.
 
 You'll need to specify any path based on your environment. Run all at one time.
 
